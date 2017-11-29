@@ -1,0 +1,17 @@
+F:\ASP.NET Projects\MachineTool\MachineTool\bin\Debug\MachineTool.exe.config
+F:\ASP.NET Projects\MachineTool\MachineTool\bin\Debug\MachineTool.exe
+F:\ASP.NET Projects\MachineTool\MachineTool\bin\Debug\MachineTool.pdb
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\Add_New_Tool.g.cs
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MainWindow.g.cs
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\App.g.cs
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool_MarkupCompile.cache
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool_MarkupCompile.lref
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\Add_New_Tool.baml
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MainWindow.baml
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.g.resources
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.Properties.Resources.resources
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.csproj.GenerateResource.Cache
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.exe
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.pdb
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\MachineTool.csprojResolveAssemblyReference.cache
+F:\ASP.NET Projects\MachineTool\MachineTool\obj\Debug\App.baml
